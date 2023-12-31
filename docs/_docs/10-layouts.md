@@ -597,10 +597,10 @@ To assign more author links, add to the `author.links` array  in [`_config.yml`]
 
 ```yaml
 author:
-  name: "Your Name" 
-  avatar: "/assets/images/bio-photo.jpg"
+  name: "Your Name"
+  avatar: "profile_pic.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "test"
+  location: "Somewhere"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"

@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Jake Weber's Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "FILL IN"
+description              : "FILL IN"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,17 +105,24 @@ analytics:
 # Site Author
 author:
   name             : "Jake Weber"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Louisiana"
-  email            :
+  avatar           : "/images/Weber_Jake_Photo.JPG"
+  bio              : "Graduate Assistant <br>
+                      Department of Mathematics  <br>
+                      Louisiana State University  <br>
+                      Prescott 125B
+                      "
+  location         : "Baton Rouge, LA"
+  # email            : "jwebe33@lsu.edu"
   links:
-    - label: "Email"
+    - label: "Baton Rouge, LA"
+      icon: "fas fa-fw fa-home"
+      # url: If content here, generates the home icon...
+    - label: "jwebe33@lsu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:jwebe33@lsu.edu"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: /Weber_Jake_Resume_12_30_23 copy.pdf
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +131,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/JakeWeber97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -230,6 +237,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -290,4 +298,10 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

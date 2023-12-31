@@ -1,12 +1,16 @@
 # main links
 main:
   - title: "About Me"
-    url: /about/
+    url: /about
+  - title: "Tutoring"
+    url: /tutoring
   - title: "Education"
-    url: /
+    url: /education
   - title: "Experience"
-    url: /
+    url: /experience
+  - title: "Projects"
+    url: /projects
+  - title: "Research and Awards"
+    url: /research_and_awards
   - title: "Resources"
-    url: /
-  - title: "CV"
-    url: /
+    url: /resources
