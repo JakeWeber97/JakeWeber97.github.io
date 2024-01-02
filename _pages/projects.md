@@ -19,7 +19,7 @@ toc: true
 ## Mathematics
 
 - **Exploration in Ramsey Theory, [Masters Thesis](https://scholarworks.uni.edu/etd/1022/), University of Northern Iowa – Spring 2020**
-    - Conducted research independently of known results, guided by Dr. Adrienne Stanley. Established introductory results on two-color classical Ramsey and Cycle-Complete Ramsey numbers. Determined Cycle-Complete Ramsey number for the special case of $$f(C_k ,K_3 )$$ for $$k ≥ 3.$$
+    - Conducted research independently of known results, guided by Dr. Adrienne Stanley. Established introductory results on two-color classical Ramsey and Cycle-Complete Ramsey numbers. Determined Cycle-Complete Ramsey number for the special case of $f(C_k ,K_3 )$ for $k ≥ 3.$
 
 - **Exploration of Counterexamples of Balanced Sets, [Honors Thesis](https://scholarworks.uni.edu/hpt/342/), University of Northern Iowa – Spring 2018**
     - Collaborated with Dr. Adrienne Stanley in identifying and classifying sets of $$ Z_p × Z_p $$ spaces that do not have balanced subsets.
