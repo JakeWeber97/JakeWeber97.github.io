@@ -27,6 +27,13 @@ When I'm not studying or working at LSU, you can usually find me:
 
 ## Involvement 
 
+### Current
+
+- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Coorporation)
+- Tuesday All-Stars Bowling League
+- GEAUX Orientation Program (LSU Math)
+  - Panel moderator, panel participant, campus tour guide, etc...
+
 ### Previous
 
 - Troopers Drum and Bugle Corps (2018)
@@ -35,13 +42,6 @@ When I'm not studying or working at LSU, you can usually find me:
 - Kappa Mu Epsilon: President/Member (2016-2018)
 - UNI Bowling Club: President/Member (2015-2018)
 - Student Fees Committee (At-Large seat, Spring 2017)
-
-### Current
-
-- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Coorporation)
-- Tuesday All-Stars Bowling League
-- GEAUX Orientation Program (LSU Math)
-  - Panel moderator, panel participant, campus tour guide, etc...
 
 ### LSU/Baton Rouge Safety Passion Project
 - In Fall 2022, I intiated and ran an LSU BR Safety Forum on LSU's campus in response to the spike in crime experienced on and surrounding LSU's campus. (Read about it [HERE](https://www.lsureveille.com/news/lsu-student-hosts-forum-to-address-safety-concerns-within-the-baton-rouge-community/article_0d964192-6516-11ed-8788-c3327744c082.html) & [HERE](https://www.theadvocate.com/baton_rouge/news/education/lsu-campus-security-more-lights-cameras/article_b5db236a-6514-11ed-8abc-d791e8db948f.html)) We brought together: 
