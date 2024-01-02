@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Jake Weber's Webpage"
 layouts_gallery:
   - url: /images/Weber_Jake_Photo.JPG
     image_path: /images/Weber_Jake_Photo.JPG

@@ -12,6 +12,21 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- https://stackoverflow.com/questions/34347818/using-mathjax-on-a-github-page -->
+    <!-- mathjax support, display on html site not just in localhost -->
+    <script type="text/javascript" id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$']]
+        }
+      };
+    </script>
+    
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
