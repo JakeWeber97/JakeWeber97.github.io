@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 layouts_gallery:
   - url: /images/Weber_Jake_Photo.JPG
