@@ -107,7 +107,7 @@ toc: true
     - Calculus (1, 2, & 3), Linear Algebra, Modern Algebra 1 & 2
     - DAM, Advanced Calculus 1 & 2
     - Dynamical Systems, Differential Equations
-    - Combinatorics, Probality & Stastics, etc.
+    - Combinatorics, Probability & Statistics, etc.
 
 
 - **LSU Math Lab**

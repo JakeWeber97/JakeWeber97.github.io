@@ -36,7 +36,7 @@ toc: true
 - **GeauxTeach STEM Website**
     - Oversaw transition from old site to new Modern Campus site
     - Streamlined site skeleton while adding new design elements ([Check it out!](https://www.lsu.edu/science/academics/geaux-teach-stem/))
-    - Launched (interviewed, transcribed, created, and reviewed with College of Science Communications and the LSU Office of Communications and Univesity Relations) the initial rollout of [Geauxing Places](https://www.lsu.edu/science/academics/geaux-teach-stem/blog/), an alumni blog series
+    - Launched (interviewed, transcribed, created, and reviewed with College of Science Communications and the LSU Office of Communications and University Relations) the initial rollout of [Geauxing Places](https://www.lsu.edu/science/academics/geaux-teach-stem/blog/), an alumni blog series
 
 - **GeauxTeach STEM Networking Liason**
     - College of Engineering (Communications Team, Chevron Center for Engineering Education, Recruitment, Petroleum Engineering Dept., Computer Science Dept.)
@@ -45,12 +45,12 @@ toc: true
     - Office of Admissions/Enrollment Management & Student Success/Office of Communications and University Relations
 
 - **Program Advisement**
-    - Analysed and drafted education pathways for all STEM majors at LSU, providing a comprehensive look at what best serves students, the program, LSU, and the state of Louisiana
+    - Analyzed and drafted education pathways for all STEM majors at LSU, providing a comprehensive look at what best serves students, the program, LSU, and the state of Louisiana
     - Attended weekly GeauxTeach STEM Committee Meetings
-    - Assisted in tracking progress of all GeauxTeach STEM Alternative Certification students, providing to the program information for scholarships and reporting needs
+    - Assisted in tracking progress of all GeauxTeach STEM Alternative Certification students, providing the GeauxTeach STEM program with information needed for scholarship dispersal and grant/accredidation reports
     - Rejuvinated GeauxTeach STEM Student Lair, including installation of needed materials like whiteboards and seating
     - Advised (as needed) the GeauxTeach STEM Student Organization 
-    - Etc.
+    - Provided general counsel based on first hand experience working with LSU entities and the surrounding community
 
 - **Summer Marketing and Messaging Meetings (2023)**
     - Guided co-directors and program manager in meeting discussions
