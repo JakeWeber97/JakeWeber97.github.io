@@ -43,7 +43,7 @@ Below find a list of all coursework taken, not including research credits.
 
 | Course Number | Couse Title  | Semester |    
 | -----------   | -----------  | ---------|
-|  *CSC 4740  | Big Data Technologies                  | Spring 2024 |
+|  *CSC 4512  | Optimization: Algorithms and Applications | Spring 2024 |
 |  *CSC 4402  | Database Systems                       | Fall 2023 |
 |  *CSC 7800  | Computer Science Research Seminar      | Fall 2023 |
 |  MATH 7490 | Topics: Graph Minors                    | Fall 2023 |

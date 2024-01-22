@@ -19,7 +19,7 @@ toc: true
     - Experienced:
         - Python (& Jupyter Notebook), SageMath, Mathematica, LaTex
     - Working Knowledge:
-        - Lean, MatLab, Maple, Perl, Prolog, SMLNJ
+        - Lean, MatLab, Maple, Perl, Prolog, SMLNJ, SQL
 - Design:
     - Photoshop Elements, Adobe InDesign, OMNI CMS (email and web design), Canva
 
