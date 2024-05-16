@@ -117,7 +117,7 @@ author:
     - label: "Baton Rouge, LA"
       icon: "fas fa-fw fa-home"
       # url: If content here, generates the home icon...
-    - label: "jwebe33@lsu.edu"
+    - label: "jwebe33 AT lsu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jwebe33@lsu.edu"
     - label: "Resume"
