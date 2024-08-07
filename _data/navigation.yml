@@ -10,7 +10,7 @@ main:
     url: /experience
   - title: "Projects"
     url: /projects
-  - title: "Research and Awards"
-    url: /research_and_awards
+  - title: "Awards and Conferences"
+    url: /awards_and_conferences
   - title: "Resources"
     url: /resources

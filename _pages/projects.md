@@ -17,6 +17,8 @@ toc: true
 
 
 ## Mathematics
+- **[General Exam Website Development](https://certifiedmathemagician.github.io/generalexam/), Summer/Fall 2024**
+    - Focusing on their respective specialties and preparation methods for the mathematics general exam, Megan Fairchild and I developed and implemented a comprehensive feedback system for graduate students and professors. Together, we spearheaded the creation and launch of a dedicated general exam website, serving as a resource for future students to enhance their preparation and performance.
 
 - **Exploration in Ramsey Theory, [Masters Thesis](https://scholarworks.uni.edu/etd/1022/), University of Northern Iowa – Spring 2020**
     - Conducted research independently of known results, guided by Dr. Adrienne Stanley. Established introductory results on two-color classical Ramsey and Cycle-Complete Ramsey numbers. Determined Cycle-Complete Ramsey number for the special case of $f(C_k ,K_3 )$ for $k ≥ 3.$
@@ -66,6 +68,7 @@ toc: true
 
 - **Recruitment Implementation**
     - Coordinated (and often represented) GeauxTeach STEM's presence at over 30 recruitment events per calendar year (including those put on by LSU entities)
+        - Brought back for LSU Bengal Bound Summer Orientations (2024)
     - Developed targeted marketing materials (based on student classification, student majors, programmatic stakeholders, state STEM intiatives, etc.)
 
 - **Pre-Med Accelerated GeauxTeach (Secondary Education) Certification Track**
@@ -85,3 +88,8 @@ toc: true
     - Advised all new GeauxTeach STEM Alternative Certification pathway students
     - Introduced all prospective/visiting students to the program and its requirements
     - Worked with students considering changing their education pathway at LSU to the Alternative Certification pathway
+
+### LSU College of Science Communications
+- **Science Next Blog and Website Transition**
+    - Oversaw transition from old SquareSpace blog to new Modern Campus blog format
+    - Updated and transitioned College of Science About Us Pages

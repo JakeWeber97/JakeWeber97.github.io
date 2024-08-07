@@ -29,7 +29,8 @@ When I'm not studying or working at LSU, you can usually find me:
 
 ### Current
 
-- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Corporation)
+- Student Colloquium Committee (Mathematics Department)
+- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Corporation) Secretary
 - Tuesday All-Stars Bowling League
 - GEAUX Orientation Program (LSU Math)
   - Panel moderator, panel participant, campus tour guide, etc...
