@@ -14,7 +14,7 @@ toc: true
 ---
 
 ## Intro
-My name is Jake Weber, and I am a fourth year mathematics doctoral candidate at [Louisiana State University](https://www.lsu.edu) (LSU) studying (structural) graph theory and working under [Dr. Guoli Ding](https://www.math.lsu.edu/~ding/). I recieved a B.A. & M.A. in Mathematics at the [University of Northenrn Iowa](https://uni.edu), and I anticipate graduating with a Ph.D. in Mathematics and a M.S. in Computer Science from LSU in May 2025.
+My name is Jake Weber, and I am a fourth year mathematics doctoral candidate at [Louisiana State University](https://www.lsu.edu) (LSU) studying (structural) graph theory and working under [Dr. Guoli Ding](https://www.math.lsu.edu/~ding/). I recieved a B.A. & M.A. in Mathematics at the [University of Northern Iowa](https://uni.edu), and I anticipate graduating with a Ph.D. in Mathematics and a M.S. in Computer Science from LSU in May 2025.
 
 I enjoy questions that are combinatorial in nature. This led me to work on Ramsey-like questions during my master's thesis at UNI (advised by Dr. Adrienne Stanley) and has encouraged me to continue in graph theory. Currently, I am working on a stronger characterization for the class of line graphs (of multigraphs). Outside of mathematics, I have enjoyed computer science coursework in algorithms, artificial intelligence, databases, and machine learning.
 

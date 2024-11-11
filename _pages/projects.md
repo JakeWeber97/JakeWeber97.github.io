@@ -17,7 +17,7 @@ toc: true
 
 
 ## Mathematics
-- **[General Exam Website Development](https://certifiedmathemagician.github.io/generalexam/), Summer/Fall 2024**
+- **[General Exam Website Development](https://certifiedmathemagician.github.io/generalexam/) - Summer/Fall 2024**
     - Focusing on their respective specialties and preparation methods for the mathematics general exam, Megan Fairchild and I developed and implemented a comprehensive feedback system for graduate students and professors. Together, we spearheaded the creation and launch of a dedicated general exam website, serving as a resource for future students to enhance their preparation and performance.
 
 - **Exploration in Ramsey Theory, [Masters Thesis](https://scholarworks.uni.edu/etd/1022/), University of Northern Iowa – Spring 2020**
