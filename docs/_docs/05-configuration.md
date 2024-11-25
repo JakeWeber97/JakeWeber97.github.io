@@ -185,7 +185,7 @@ repository: "username/repo-name"
 
 "NWO" stands for "name with owner." It is GitHub lingo for the username of the owner of the repository plus a forward slash plus the name of the repository, e.g. `mmistakes/minimal-mistakes`, where **mmistakes** is the owner and **minimal-mistakes** is the repository name.
 
-Your `site.github.*` fields should fill in like normal. If you run Jekyll with the --verbose flag, you should be able to see all the API calls made.
+Your `site.github.*` fields should /awards_and_conferences like normal. If you run Jekyll with the --verbose flag, you should be able to see all the API calls made.
 
 If you don't set `repository` correctly you may see the following error when trying to `serve` or `build` your Jekyll site:
 
