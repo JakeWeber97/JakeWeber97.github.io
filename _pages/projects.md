@@ -30,6 +30,8 @@ toc: true
     - Gathered previous research, contributed to implementation and editing of code, and analyzed program results. Proposed a solution [a genetic algorithm] to the problem addressed [plane routing efficiency]. Built presentations for the collaborating business and an academic audience. (Support provided by the NSF and NSA through the MAA)
 
 ## Computer Science
+- **[Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25 ] - Fall 2025**
+    - In progress
 
 ## Graduate Assistantship
 

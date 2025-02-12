@@ -23,5 +23,5 @@ I would like to share some of the resources and tools I believe to be pretty awe
 - [Overleaf: LaTex Editor](https://www.overleaf.com/) is a collaborative text editor capable of producing robust math text. 
 
 ### Instructors
-- [Journal of Inquiry-Based Learning in Mathematics](http://www.jiblm.org) is a collection of instructor guides (and student acompaniament) for leading inquiry-based instruction on a plethora of mathematical topics.
+- [Journal of Inquiry-Based Learning in Mathematics](http://www.jiblm.org) is a collection of instructor guides (and student accompaniment) for leading inquiry-based instruction on a plethora of mathematical topics.
 - [Illustrative Math](https://im.kendallhunt.com) & [Illustrative Math Tasks](https://tasks.illustrativemathematics.org) is a collection of learning outcome based tasks for middle and high school level math topics. This site is changing often as some tasks have become part of the premium version offered.

@@ -68,6 +68,8 @@ toc: true
 ## Assistantship Roles
 
 ### Teaching
+- Spring 2025
+    - MATH 1020/1021: College Algebra Coreq & College Algebra
 - Fall 2024
     - MATH 1550: Calculus I
 - Summer 2024
