@@ -23,7 +23,7 @@ toc: true
 - [Louisiana State University](https://www.math.lsu.edu) (current GPA 3.88/4.00)
 
 ## M.S. in Computer Science: Systems Science
-<i class="fa fa-calendar fa-fw w3-margin-right"></i> August 2021 - December 2025
+<i class="fa fa-calendar fa-fw w3-margin-right"></i> August 2021 - May 2026
 - [Louisiana State University](https://www.lsu.edu/eng/cse/index.php)
 
 ## Other Degrees
