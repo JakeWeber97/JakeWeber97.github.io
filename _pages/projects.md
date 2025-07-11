@@ -17,6 +17,8 @@ toc: true
 
 
 ## Mathematics
+- **Classes Between Line Graphs and Claw-Free Graphs - Spring 2026**
+    - In progress
 - **[General Exam Website Development](https://certifiedmathemagician.github.io/generalexam/) - Summer/Fall 2024**
     - Focusing on their respective specialties and preparation methods for the mathematics general exam, Megan Fairchild and I developed and implemented a comprehensive feedback system for graduate students and professors. Together, we spearheaded the creation and launch of a dedicated general exam website, serving as a resource for future students to enhance their preparation and performance.
 
@@ -30,7 +32,7 @@ toc: true
     - Gathered previous research, contributed to implementation and editing of code, and analyzed program results. Proposed a solution [a genetic algorithm] to the problem addressed [plane routing efficiency]. Built presentations for the collaborating business and an academic audience. (Support provided by the NSF and NSA through the MAA)
 
 ## Computer Science
-- **[Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25 ] - Fall 2025**
+- **Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25 - Spring 2026**
     - In progress
 
 ## Graduate Assistantship
