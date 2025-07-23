@@ -124,7 +124,7 @@ author:
       icon: "fas fa-fw fa-file"
       url: /Weber_Jake_Resume_7_18_25.pdf
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jaweber1/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
