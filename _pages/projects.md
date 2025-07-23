@@ -18,7 +18,8 @@ toc: true
 
 ## Mathematics
 - **Classes Between Line Graphs and Claw-Free Graphs - Spring 2026**
-    - In progress
+    - **Abstract:** A line graph $L(G)$ of $G = (V, E)$ is the graph with vertex set E in which $x, y \in E$ are adjacent as vertices if and only if they are adjacent as edges in G. In 1970, Beineke (and Robertson independently) discovered a forbidden induced subgraph characterization for the class of line graphs of simple graphs. Bermond and Meyer in 1973 generalized this characterization to the class of line graphs of multigraphs, denoted $\mathcal{L}$. One such obstruction of these classes is $K_{1,3},$ the claw. In 2008, Chudnovsky and Seymour fully characterized the set of claw-free graphs. In this talk, we present explicit and constructive characterizations of several classes between $\mathcal{L}$ and claw-free graphs. These constructions aim to provide an alternative approach, with fewer graph classes and operations, to that of Chudnovsky and Seymour. This talk is based on joint work with Guoli Ding.
+
 - **[General Exam Website Development](https://certifiedmathemagician.github.io/generalexam/) - Summer/Fall 2024**
     - Focusing on their respective specialties and preparation methods for the mathematics general exam, Megan Fairchild and I developed and implemented a comprehensive feedback system for graduate students and professors. Together, we spearheaded the creation and launch of a dedicated general exam website, serving as a resource for future students to enhance their preparation and performance.
 
@@ -33,7 +34,11 @@ toc: true
 
 ## Computer Science
 - **Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25 - Spring 2026**
-    - In progress
+    - **In progress:** Division 1 College Football is a major part of American culture, one that everyone can get excited about. Rivalries and competition aside, the NCAA financial landscape has dramatically changed over the past decade with the growth of NIL (Name, Image, and Likeness) and online sports betting. Ultimately, this draws more people to the sport. It induces, with even greater severity, the outcomes of these competitive games. 
+
+    One could pose the simple problem: Based on the results of game play over the regular season, which teams are worthy to continue to play in the postseason? Every fan has an opinion on this topic; however, the standard polls ranking the top NCAA teams throughout the season could be considered as representative of the national consensus. This clearly is contested and gives rise to why one should study the dynamics of such polls. In addition, the separate polls for the top teams may have discrepancies, and this leads to the question of, "Who actually got the ranking right?"
+
+    Our goal is to look at the NCAA Associated Press (AP) Top 25 poll and see if we can determine group dynamics that may speak to how the group decision, ultimately deciding which teams make the playoffs and those that do not, may be affected.    
 
 ## Graduate Assistantship
 
