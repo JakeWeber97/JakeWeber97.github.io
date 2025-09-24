@@ -15,8 +15,6 @@ last_modified_at:
 toc: true
 ---
 
-/* /*
-
 ## Mathematics
 - **[Classes Between Line Graphs and Claw-Free Graphs](https://github.com/JakeWeber97/academic-projects) - Spring 2026**
     - **Abstract:** A line graph $L(G)$ of $G = (V, E)$ is the graph with vertex set E in which $x, y \in E$ are adjacent as vertices if and only if they are adjacent as edges in G. In 1970, Beineke (and Robertson independently) discovered a forbidden induced subgraph characterization for the class of line graphs of simple graphs. Bermond and Meyer in 1973 generalized this characterization to the class of line graphs of multigraphs, denoted $\mathcal{L}$. One such obstruction of these classes is $K_{1,3},$ the claw. In 2008, Chudnovsky and Seymour fully characterized the set of claw-free graphs. In this talk, we present explicit and constructive characterizations of several classes between $\mathcal{L}$ and claw-free graphs. These constructions aim to provide an alternative approach, with fewer graph classes and operations, to that of Chudnovsky and Seymour. This talk is based on joint work with Guoli Ding.

@@ -27,5 +27,6 @@ toc: true
 
 ## Attended
 
+- Fall 2025: LSU Graduate Student Leadership Initiative
 - Spring 2024: [33rd Cumberland Conference on Combinatorics, Graph Theory](https://www.math.msstate.edu/cumberland-conference-2024)
 - Summer 2023: [SLMath](https://www.slmath.org) (MSRI) Graduate Summer School: [Formalization in Mathematics (2023)](https://www.slmath.org/summer-schools/1021)

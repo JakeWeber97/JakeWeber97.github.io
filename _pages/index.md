@@ -29,11 +29,12 @@ When I'm not studying or working at LSU, you can usually find me:
 
 ### Current
 
-- Student Colloquium Committee, LSU Mathematics Department (2024-Present) 
+- **Student Colloquium Committee, LSU Mathematics Department (2024)** <!-- 2024, 2025, 2026 -->
   - Member and Webmaster
-- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Corporation) Secretary (2020-Present)
-- Tuesday All-Stars Bowling League (2020-Present)
-- GEAUX Orientation Program, LSU Mathematics Department (2021-Present)
+- **Sigma Phi Epsilon - LA Beta Alumni & Volunteer Corporation (2020)** <!-- 2020-2026 -->
+  - Secretary
+- **Tuesday All-Stars Bowling League (2020)** <!-- 2020-2026 -->
+- **GEAUX Orientation Program, LSU Mathematics Department (2021)** <!-- 2021-2026 -->
   - Surviving Grad School & Teaching Panel moderator/participant, campus tour guide, mental health seminar panelist, etc...
 
 ### Previous

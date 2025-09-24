@@ -44,6 +44,7 @@ Below is a list of all mathematics and computer science coursework taken, not in
 
 | Course Number | Couse Title  | Semester |    
 | -----------   | -----------  | ---------|
+|  **Audited**  | **Erdos Institute: Data Science Bootcamp** | **Fall 2024** |
 |  *MATH 7490  | The Probabalistic Method               | Fall 2024 |
 |  **CSC 4512**  | **Optimization: Algorithms and Applications** | **Spring 2024** |
 |  **CSC 4402**  | **Database Systems**                       | **Fall 2023** |
