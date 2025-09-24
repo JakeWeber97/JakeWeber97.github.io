@@ -14,7 +14,7 @@ toc: true
 ---
 
 ## Intro
-My name is Jake Weber, and I am a sixth year mathematics doctoral candidate at [Louisiana State University](https://www.lsu.edu) (LSU) studying (structural) graph theory and working under [Dr. Guoli Ding](https://www.math.lsu.edu/~ding/). I recieved a B.A. & M.A. in Mathematics at the [University of Northern Iowa](https://uni.edu), and I anticipate graduating from LSU with a Ph.D. in Mathematics and a M.S. in Computer Science: Systems Science  in May of 2026.
+My name is Jake Weber, and I am a sixth year mathematics doctoral candidate at [Louisiana State University](https://www.lsu.edu) (LSU) studying (structural) graph theory and working under [Dr. Guoli Ding](https://www.math.lsu.edu/~ding/). I received a B.A. & M.A. in Mathematics at the [University of Northern Iowa](https://uni.edu), and I anticipate graduating from LSU with a Ph.D. in Mathematics and a M.S. in Computer Science: Systems Science  in May of 2026.
 
 I enjoy questions that are combinatorial in nature. This led me to work on Ramsey-like questions during my master's thesis at UNI (advised by Dr. Adrienne Stanley) and has encouraged me to continue in graph theory. Currently, I am working on a set of characterizations for classes of graphs between line graphs (of multigraphs) and claw-free graphs. Outside of mathematics, I have enjoyed computer science coursework in algorithms, artificial intelligence, databases, and machine learning.
 
@@ -29,11 +29,12 @@ When I'm not studying or working at LSU, you can usually find me:
 
 ### Current
 
-- Student Colloquium Committee (Mathematics Department)
-- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Corporation) Secretary
-- Tuesday All-Stars Bowling League
-- GEAUX Orientation Program (LSU Math)
-  - Panel moderator, panel participant, campus tour guide, etc...
+- Student Colloquium Committee, LSU Mathematics Department (2024-Present) 
+  - Member and Webmaster
+- Sigma Phi Epsilon - LA Beta AVC (Alumni & Volunteer Corporation) Secretary (2020-Present)
+- Tuesday All-Stars Bowling League (2020-Present)
+- GEAUX Orientation Program, LSU Mathematics Department (2021-Present)
+  - Surviving Grad School & Teaching Panel moderator/participant, campus tour guide, mental health seminar panelist, etc...
 
 ### Previous
 

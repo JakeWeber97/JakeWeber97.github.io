@@ -15,6 +15,7 @@ last_modified_at:
 toc: true
 ---
 
+/* /*
 
 ## Mathematics
 - **[Classes Between Line Graphs and Claw-Free Graphs](https://github.com/JakeWeber97/academic-projects) - Spring 2026**
@@ -35,8 +36,8 @@ toc: true
 ## Computer Science
 - **[Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25](https://github.com/JakeWeber97/academic-projects) - Spring 2026**
     - **In progress:** 
-        - One could pose the simple problem: Based on the results of game play over the regular season, which teams are worthy to continue to play in the postseason? Every fan has an opinion on this topic; however, the standard polls ranking the top NCAA teams throughout the season could be considered as representative of the national consensus. This clearly is contested and gives rise to why one should study the dynamics of such polls. In addition, the separate polls for the top teams may have discrepancies, and this leads to the question of, "Who actually got the ranking right?"
-        - Our goal is to look at the NCAA Associated Press (AP) Top 25 poll and see if we can determine group dynamics that may speak to how the group decision, ultimately deciding which teams make the playoffs and those that do not, may be affected.    
+        - One could pose the simple problem: Based on the results of game play over the regular season, which teams are worthy to continue play in the postseason? Every fan has an opinion on this topic; however, the standard polls ranking the top NCAA teams throughout the season could be considered as representative of the national consensus. This clearly is contested and gives rise to why one could study the dynamics of such polls. In addition, the separate polls for the top teams may have discrepancies, and this leads to the question of, "Who actually got the ranking right?"
+        - Our goal is to look at the NCAA Associated Press (AP) Top 25 poll through a graph theoretic lens and see if we can determine group dynamics that may speak to how the group decision, ultimately deciding which teams make the playoffs and those that do not, may be affected.    
 
 ## Graduate Assistantship
 

@@ -16,13 +16,14 @@ toc: true
 
 ## Tutoring
 
-I am currently offering tutoring services as my schedule allows. I tutor a wide variety of subjects predominantly in mathematics but have also worked with students with courses that are computational in nature*. These subjects include but are not limited to:
+I am currently offering tutoring services as my schedule allows. I tutor a wide variety of subjects predominantly in mathematics but have also worked with students in courses that are computational in nature*. These subjects include but are not limited to:
 - Algebra & Trigonometry
 - Calculus (1, 2, & 3), Linear Algebra, Differential Equations
+- Business Calculus
 - Probability & Statistics
 - Discrete Mathematics
 - Introduction to Proofs
-- Python
+- Python (Intro to Computing)
 - *Operations Management, Economics, Business Statistics, etc.
 
 I work with students of all levels (high school, college, and graduates) and would be happy to chat about your personal needs.
