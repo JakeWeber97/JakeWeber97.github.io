@@ -19,6 +19,10 @@ toc: true
 - May 2024: Certificate of Teaching Excellence (LSU Mathematics Department)
 - May 2020: UNI Graduate Assistant First Award (May 2020)
 - May 2018: Graduated with The Purple and Old Gold Meritorious Award and Magna Cum Laude (May 2018)
+- Aug 2017: UNI Math: Augusta Schurrer Scholarship - Math Excellence
+- Aug 2015-2018: UNI Math: Science Symposium Scholarship in Mathematics
+- Aug 2015: UNI Math: Nathan McCay Mathematics Scholarship
+- Aug 2015: UNI Math: Math Day Scholarship
 
 ## Presented
 - Exploration of Counterexamples of Balance Sets at the annual [Summer Undergraduate Research Program](https://scholarworks.uni.edu/surp/) (SURP) at [UNI (Summer 2017)](https://scholarworks.uni.edu/surp_programs/3/) and at the annual [Iowa Section of the Mathematics Association of America](https://www.iowa.maa.org) meeting at Loras College [(October 2017)](http://sections.maa.org/iowa/db/index.php/session/printSchedule).
