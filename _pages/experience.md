@@ -137,7 +137,7 @@ Duties under a grading assignment include: proctoring and grading exams/quizzes,
 
     In the UNI Math Lab, located on the third floor of Wright Hall, students of all majors are able to seek assistance with any of the math coursework they encounter in their majors. Often, for mathematics students, I was able to have them work collaboratively in an inquiry-based setting. This was especially helpful for proof base coursework like Discrete and Argumentative Mathematics (DAM) and Advanced Calculus. Averaging over 10 hrs/week in the lab, I regularly met with students one-on-one regarding any of the following courses: 
     - Calculus (1, 2, & 3), Linear Algebra, Modern Algebra 1 & 2
-    - DAM, Advanced Calculus 1 & 2
+    - DAM, Topology, Advanced Calculus 1 & 2
     - Dynamical Systems, Differential Equations
     - Combinatorics, Probability & Statistics, etc.
 

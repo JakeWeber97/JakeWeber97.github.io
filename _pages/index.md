@@ -29,16 +29,17 @@ When I'm not studying or working at LSU, you can usually find me:
 
 ### Current
 
-- **Student Colloquium Committee, LSU Mathematics Department (2024)** <!-- 2024, 2025, 2026 -->
+- **Student Colloquium Committee, LSU Mathematics Department (2024 - Present)** <!-- 2024, 2025, 2026 -->
   - Member and Webmaster
-- **Sigma Phi Epsilon - LA Beta Alumni & Volunteer Corporation (2020)** <!-- 2020-2026 -->
+- **Sigma Phi Epsilon - LA Beta Alumni & Volunteer Corporation (2020 - Present)** <!-- 2020-2026 -->
   - Secretary
-- **Tuesday All-Stars Bowling League (2020)** <!-- 2020-2026 -->
-- **GEAUX Orientation Program, LSU Mathematics Department (2021)** <!-- 2021-2026 -->
+- **Tuesday All-Stars Bowling League (2020 - Present)** <!-- 2020-2026 -->
+- **GEAUX Orientation Program, LSU Mathematics Department (2021 - 2025)** <!-- 2021-2026 -->
   - Surviving Grad School & Teaching Panel moderator/participant, campus tour guide, mental health seminar panelist, etc...
 
 ### Previous
 
+- UNI CHAS Champs: College of Humanities, Arts, and Sciences Recruitment (2019-2020)
 - Troopers Drum and Bugle Corps (2018)
 - Iowa Irish Fest Committee: Member (2015-2019)
 - Sigma Phi Epsilon: VP of Finance/Member (2015-2018)
@@ -47,7 +48,7 @@ When I'm not studying or working at LSU, you can usually find me:
 - Student Fees Committee (At-Large seat, Spring 2017)
 
 ### LSU/Baton Rouge Safety Passion Project
-- In Fall 2022, I intiated and ran an LSU BR Safety Forum on LSU's campus in response to the spike in crime experienced on and surrounding LSU's campus. (Read about it [HERE](https://www.lsureveille.com/news/lsu-student-hosts-forum-to-address-safety-concerns-within-the-baton-rouge-community/article_0d964192-6516-11ed-8788-c3327744c082.html) & [HERE](https://www.theadvocate.com/baton_rouge/news/education/lsu-campus-security-more-lights-cameras/article_b5db236a-6514-11ed-8abc-d791e8db948f.html)) We brought together: 
+- In Fall 2022, I initiated and ran an LSU BR Safety Forum on LSU's campus in response to the spike in crime experienced on and surrounding LSU's campus. (Read about it [HERE](https://lsureveille.com/156492/news/lsu-student-hosts-forum-to-address-safety-concerns-within-the-baton-rouge-community/) & [HERE](https://www.theadvocate.com/baton_rouge/news/education/lsu-campus-security-more-lights-cameras/article_b5db236a-6514-11ed-8abc-d791e8db948f.html)) We brought together: 
   - Baton Rouge Mayor-President Westin-Broome
   - Director of Operations of Safe Hopeful Healthy with the Office of the Mayor-President, Jazzika Matthews
   - Councilwoman Coleman of the BR Metro Council District 10

@@ -25,7 +25,7 @@ toc: true
 - Aug 2015: Math Day Scholarship (UNI Mathematics Department)
 
 ## Presented
-- Exploration of Counterexamples of Balance Sets at the annual [Summer Undergraduate Research Program](https://scholarworks.uni.edu/surp/) (SURP) at [UNI (Summer 2017)](https://scholarworks.uni.edu/surp_programs/3/) and at the annual [Iowa Section of the Mathematics Association of America](https://www.iowa.maa.org) meeting at Loras College [(October 2017)](http://sections.maa.org/iowa/db/index.php/session/printSchedule).
+- Exploration of Counterexamples of Balance Sets at the annual [Summer Undergraduate Research Program](https://scholarworks.uni.edu/surp/) (SURP) at [UNI (Summer 2017)](https://scholarworks.uni.edu/surp_programs/3/) and at the fall [Iowa Section of the Mathematics Association of America](https://www.iowa.maa.org) meeting at Loras College [(October 2017)](http://sections.maa.org/iowa/db/index.php/session/printSchedule).
 
 - The Genetic Algorithm: Relevance Beyond Biology at the annual Society of Industrialized and Applied Mathematics (SIAM) conference [(July 2016)](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60178)
 

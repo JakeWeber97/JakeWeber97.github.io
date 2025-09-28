@@ -28,14 +28,14 @@ toc: true
 - **Exploration of Counterexamples of Balanced Sets, [Honors Thesis](https://scholarworks.uni.edu/hpt/342/), University of Northern Iowa – Spring 2018**
     - Collaborated with Dr. Adrienne Stanley in identifying and classifying sets of $ Z_p × Z_p $ spaces that do not have balanced subsets.
 
-- **The Genetic Algorithm: Relevance Beyond Biology, Preparing for Industrial Careers (PIC) Math, University of Northern Iowa – Spring 2016**
+- **The Genetic Algorithm: Relevance Beyond Biology, [Preparing for Industrial Careers (PIC) Math](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60178), University of Northern Iowa – Spring 2016**
     - Gathered previous research, contributed to implementation and editing of code, and analyzed program results. Proposed a solution [a genetic algorithm] to the problem addressed [plane routing efficiency]. Built presentations for the collaborating business and an academic audience. (Support provided by the NSF and NSA through the MAA)
 
 ## Computer Science
 - **[Group Decision Making Processes by Means of a Graph Theoretic Approach: Football AP Top 25](https://github.com/JakeWeber97/academic-projects) - Spring 2026**
     - **In progress:** 
         - One could pose the simple problem: Based on the results of game play over the regular season, which teams are worthy to continue play in the postseason? Every fan has an opinion on this topic; however, the standard polls ranking the top NCAA teams throughout the season could be considered as representative of the national consensus. This clearly is contested and gives rise to why one could study the dynamics of such polls. In addition, the separate polls for the top teams may have discrepancies, and this leads to the question of, "Who actually got the ranking right?"
-        - Our goal is to look at the NCAA Associated Press (AP) Top 25 poll through a graph theoretic lens and see if we can determine group dynamics that may speak to how the group decision, ultimately deciding which teams make the playoffs and those that do not, may be affected.    
+        - We look at the NCAA Associated Press (AP) Top 25 poll through a graph theoretic lens and determine group dynamics that speak to how the group makes decisions, ultimately deciding which teams make the playoffs and which do not.  
 
 ## Graduate Assistantship
 
@@ -55,8 +55,8 @@ toc: true
 - **Program Advisement**
     - Analyzed and drafted education pathways for all STEM majors at LSU, providing a comprehensive look at what best serves students, the program, LSU, and the state of Louisiana
     - Attended weekly GeauxTeach STEM Committee Meetings
-    - Assisted in tracking progress of all GeauxTeach STEM Alternative Certification students, providing the GeauxTeach STEM program with information needed for scholarship dispersal and grant/accredidation reports
-    - Rejuvinated GeauxTeach STEM Student Lair, including installation of needed materials like whiteboards and seating
+    - Assisted in tracking progress of all GeauxTeach STEM Alternative Certification students, providing the GeauxTeach STEM program with information needed for scholarship dispersal and grant/accreditation reports
+    - Rejuvenated GeauxTeach STEM Student Lair, including installation of needed materials like whiteboards and seating
     - Advised (as needed) the GeauxTeach STEM Student Organization 
     - Provided general counsel based on first hand experience working with LSU entities and the surrounding community
 
@@ -68,14 +68,14 @@ toc: true
 
 
 - **GeauxTeach STEM Alternative Certification**
-    - Liaison for the newly developed Alternative Certification pathway for both [STEM](https://www.lsu.edu/science/academics/geaux-teach-stem/stem-alternative-certification-pathway.php) and [Computer Science](https://www.lsu.edu/eng/cse/academics/undergraduate/seedteachcsc.php) majors
-    - Independently coordinated and conducted a focus group of engineering students and their attitudes towards teaching/pursuing teaching courses and a post-bacheloreatte certification program (GeauxTeach STEM Alternative Certification Pathway)
-    - Orchestrated focus groups for engineering majors and provided programmic insight as needed for John Rice with CommonSense Communications (Spring 2023) during his Marketing, Grassroots Plan, and Focus Group endeavor for GeauxTeach STEM
+    - Liaison for the newly developed Alternative Certification pathway for both STEM and Computer Science majors (programs discontinued, findings reported back to the UTeach Network)
+    - Independently coordinated and conducted a focus group of engineering students and their attitudes towards teaching/pursuing teaching courses and a post-baccalaureate certification program (GeauxTeach STEM Alternative Certification Pathway)
+    - Orchestrated focus groups for engineering majors and provided programmatic insight as needed for John Rice with CommonSense Communications (Spring 2023) during his Marketing, Grassroots Plan, and Focus Group endeavor for GeauxTeach STEM
 
 - **Recruitment Implementation**
     - Coordinated (and often represented) GeauxTeach STEM's presence at over 30 recruitment events per calendar year (including those put on by LSU entities)
         - Brought back for LSU Bengal Bound Summer Orientations (2024)
-    - Developed targeted marketing materials (based on student classification, student majors, programmatic stakeholders, state STEM intiatives, etc.)
+    - Developed targeted marketing materials (based on student classification, student majors, programmatic stakeholders, state STEM initiatives, etc.)
 
 - **Pre-Med Accelerated GeauxTeach (Secondary Education) Certification Track**
     - Designed track timeline/requirements and all promotional materials
@@ -84,7 +84,7 @@ toc: true
 - **GeauxTeach STEM Program Emails**
     - Created recruitment emails/campaigns in fall, spring, and summer semesters
     - Designed and sent communications to students after LSU visit days and new student orientations 
-    - Assisted with sending the semesterly Alumni Newsletter
+    - Assisted with sending the semester Alumni Newsletter
 
 - **Student Worker Management**
     - Managed students for staffing at recruitment events
