@@ -16,13 +16,13 @@ toc: true
 
 ## Awards
 
-- December 2025: [Certificate of Teaching Excellence (LSU Mathematics Department)]{https://www.math.lsu.edu/teaching_certificates}
+- December 2025: [Certificate of Teaching Excellence (LSU Mathematics Department)](https://www.math.lsu.edu/teaching_certificates)
 - December 2025: Graduate Student Leadership Institute (Completion, LSU Pinkie Gordon Lane, Graduate School)
 - Summer 2025: LSU Summer Math 2025 Graduate Research Assistantship
-- May 2024: [Certificate of Teaching Excellence (LSU Mathematics Department)]{https://www.math.lsu.edu/teaching_certificates}
+- May 2024: [Certificate of Teaching Excellence (LSU Mathematics Department)](https://www.math.lsu.edu/teaching_certificates)
 - May 2020: UNI Graduate Assistant First Award 
-- Dec 2018: [Graduate Student Spotlight in The Wright Message]{https://scholarworks.uni.edu/matnews/12/}
-- May 2018: [Graduated with The Purple and Old Gold Meritorious Award and Magna Cum Laude]{https://scholarworks.uni.edu/commencement_programs/102/} 
+- Dec 2018: [Graduate Student Spotlight in The Wright Message](https://scholarworks.uni.edu/matnews/12/)
+- May 2018: [Graduated with The Purple and Old Gold Meritorious Award and Magna Cum Laude](https://scholarworks.uni.edu/commencement_programs/102/)
 - Aug 2017: Augusta Schurrer Scholarship - Math Excellence (UNI Mathematics Department)
 - Aug 2015-2018: Science Symposium Scholarship in Mathematics (UNI Mathematics Department)
 - Aug 2015: Nathan McCay Mathematics Scholarship (UNI Mathematics Department)
