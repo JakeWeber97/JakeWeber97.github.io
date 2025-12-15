@@ -109,6 +109,8 @@ Duties under a teaching assignment include: writing course syllabi, delivering e
 
 ### Grading
 
+- Spring 2026
+    - MATH 1552: Calculus II (Dr. Vinicio Rios, LSU)
 - Spring 2021
     - MATH 1552: Calculus II (Dr. Julia Ledet, LSU)
 - Fall 2020
