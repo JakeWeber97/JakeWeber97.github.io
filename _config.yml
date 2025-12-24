@@ -122,7 +122,10 @@ author:
       url: "mailto:jwebe33@lsu.edu"
     - label: "Resume"
       icon: "fas fa-fw fa-file"
-      url: /Weber_Jake_Resume_12_16_25_Two_Page.pdf
+      url: /Weber_Jake_Resume_12_20_25_Two_Page.pdf
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: /Weber_Jake_CV_12_16_25.pdf
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jaweber1/"
