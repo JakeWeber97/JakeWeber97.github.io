@@ -17,7 +17,7 @@ toc: true
 ## Awards
 
 - March 2026: [Outstanding New Volunteer Award: Sigma Phi Epsilon District 16](https://sigep.org/the-sigep-experience/awards/outstanding-new-volunteer-award/)
-- January 2026: [Star and Crescent Foundation of Louisiana Scholarship)](https://scfla.org/scholarship/)
+- January 2026: [Star and Crescent Foundation of Louisiana Scholarship](https://scfla.org/scholarship/)
 - December 2025: [Certificate of Teaching Excellence (LSU Mathematics Department)](https://www.math.lsu.edu/teaching_certificates)
 - December 2025: Graduate Student Leadership Institute (Completion, LSU Pinkie Gordon Lane, Graduate School)
 - Summer 2025: LSU Summer Math 2025 Graduate Research Assistantship
